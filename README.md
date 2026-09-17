@@ -1,12 +1,12 @@
 # pythonBasics
 
-Welcome, dear reader, to this brief introduction to Python. This GitHub repository covers the fundamentals of Python, designed primarily for (prospective) master's students at the Faculty of Bioscience Engineering, Ghent University, but has been slightly adapted for the students at the Mbarara University of Science and Technology.
+This GitHub repository covers the fundamentals of Python, designed for university students across all engineering courses who want to learn or refresh their Python skills.
 
 The material selected for this course, along with its presentation, focuses on topics that are (in our opinion) essential for your academic journey, particularly for courses that list basic programming skills as a prerequisite. This overview combines freely available online resources with dedicated content curated specifically for this repository.
 
 Target audience:
-- Bachelor students of Bioscience Engineering looking for a refresher of their Python skills
-- Students with a basic programming background in another language who wish to learn Python for their studies at the Faculty of Bioscience Engineering. 
+- University students in any engineering course looking for a refresher of their Python skills
+- Students with a basic programming background in another language who wish to learn Python for their studies
 - People or students of any background in programming — whether beginners or experienced programmers looking to pick up Python — as this material can be of benefit to them.
 
 Contents:
