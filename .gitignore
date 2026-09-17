@@ -1,0 +1,17 @@
+# Only track the notebooks, the outlook slides, and the exercises/files folders.
+# Everything else at the repo root is ignored.
+/*
+
+!/.gitignore
+!/README.md
+!/*.ipynb
+!/10-outlook.odp
+!/EXERCISES/
+!/ExercisesNumpy/
+!/files/
+
+# Byte-compiled / cache files that could still slip into tracked folders
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
