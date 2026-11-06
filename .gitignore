@@ -1,17 +1,32 @@
-# Only track the notebooks, the outlook slides, and the exercises/files folders.
-# Everything else at the repo root is ignored.
-/*
+# Python virtual environments
+.venv*/
+venv/
+env/
+ENV/
+ml-env/
+virtualenv/
 
-!/.gitignore
-!/README.md
-!/*.ipynb
-!/10-outlook.odp
-!/EXERCISES/
-!/ExercisesNumpy/
-!/files/
+# User-requested project exclusions
+/lcc-medical-camp/2026/
+/trackit/2026/annual/
 
-# Byte-compiled / cache files that could still slip into tracked folders
-__pycache__/
-*.py[cod]
-.ipynb_checkpoints/
-.DS_Store
+# Sensitive or personally identifying project data
+/internship analysis/
+/domestic violence/
+
+# Dataset files
+/datasets/
+
+# Third-party books and course bundles
+/Linear Algebra/learning materials/books/
+/reading mats/
+/py documentation/
+/learn python/Automate_the_Boring_Stuff_3e_onlinematerials/
+/learn python/pcc_3e-main/
+/learn python/*.pdf
+/Matplotlib_Complete_Course_Package/
+/NumPy_Complete_Course_Package/
+/Pandas_Course_Package/
+/Scikit_Learn_Complete_Course_Package/
+/AI/AI Engineering Building App_ (z-library.sk, 1lib.sk, z-lib.sk).pdf
+/ML/docs/
